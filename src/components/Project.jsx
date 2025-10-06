@@ -1,7 +1,7 @@
 import React from 'react';
 import { Container, Row, Col, Card, Button } from 'react-bootstrap';
 import './Project.css';
-import rtfinsurence from '../assets/rtf-insurence.png';
+import rtfinsurence from '../assets/rtf-insurence.PNG';
 import geminiclone from '../assets/Gemini-clone.png';
 import ecommerce from '../assets/e-commerce.png'
 import foodpage from '../assets/food-page.png'
