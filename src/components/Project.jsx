@@ -2,7 +2,7 @@ import React from 'react';
 import { Container, Row, Col, Card, Button } from 'react-bootstrap';
 import './Project.css';
 import rtfinsurence from '../assets/rtf-insurence.PNG';
-import geminiclone from '../assets/Gemini-clone.PNG';
+import geminiClone from '../assets/Gemini-clone.PNG';
 import ecommerce from '../assets/e-commerce.PNG'
 import foodpage from '../assets/food-page.PNG'
 import quiz from '../assets/quiz.PNG'
@@ -21,7 +21,7 @@ const projects = [
     info: 'A Gemini AI clone built with React. Includes chat UI, prompt suggestions, and Google-style design. Live at gemini-clone-avsesh.netlify.app.',
     github: 'https://github.com/Avsesh-shakya/gemini-clone',
     live: 'https://gemini-clone-avsesh.netlify.app',
-    img: geminiclone,
+    img: geminiClone,
   },
   
   {
