@@ -1,0 +1,8 @@
+.skill-card {
+  transition: transform 0.2s, box-shadow 0.2s;
+}
+.skill-card:hover {
+  transform: scale(1.04);
+  box-shadow: 0 4px 24px rgba(99,102,241,0.18);
+  z-index: 2;
+}

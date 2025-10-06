@@ -1,0 +1,17 @@
+.project-card {
+  transition: transform 0.3s, box-shadow 0.3s;
+}
+.project-card:hover {
+  transform: scale(1.04) translateX(-10px);
+  box-shadow: 0 8px 32px rgba(99,102,241,0.18);
+  z-index: 2;
+}
+.project-info {
+  max-height: 48px;
+  overflow: hidden;
+  transition: max-height 0.3s;
+}
+.project-card:hover .project-info {
+  max-height: 80px;
+  color: #222;
+}
