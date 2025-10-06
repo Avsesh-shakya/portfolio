@@ -2,10 +2,10 @@ import React from 'react';
 import { Container, Row, Col, Card, Button } from 'react-bootstrap';
 import './Project.css';
 import rtfinsurence from '../assets/rtf-insurence.PNG';
-import geminiclone from '../assets/Gemini-clone.png';
-import ecommerce from '../assets/e-commerce.png'
-import foodpage from '../assets/food-page.png'
-import quiz from '../assets/quiz.png'
+import geminiclone from '../assets/Gemini-clone.PNG';
+import ecommerce from '../assets/e-commerce.PNG'
+import foodpage from '../assets/food-page.PNG'
+import quiz from '../assets/quiz.PNG'
 
 
 const projects = [
